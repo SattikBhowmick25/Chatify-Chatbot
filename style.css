@@ -122,6 +122,11 @@ body{
         overflow-y: auto;
         padding: 10px 2px 100px;
     }
+    .chatbot .chatbox{
+        height: 80%;
+        overflow-y: auto;
+        padding: 10px 5px 100px;
+    }
     .chatbot .chat p{
         font-size: 0.8rem;
     }
