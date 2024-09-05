@@ -136,10 +136,10 @@ body{
     width: 4px;
 }
 ::-webkit-scrollbar-track{
-    background: #fff5ec;
+    background: #2e2e2e;
 }
 ::-webkit-scrollbar-thumb{
-    background: #ac642994;
+    background: #10d609b7;
     border-radius: 10px;
-
+    box-shadow: 0 0 10px 0 #000000;
 }
